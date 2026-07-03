@@ -1,0 +1,14 @@
+{
+    "periods_per_day": 8,
+    "working_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ],
+    "lab_continuous": 3,
+    "faculty_free_periods_per_day": 2,
+    "iit_only_saturday": true
+}

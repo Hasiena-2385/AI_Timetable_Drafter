@@ -1,0 +1,12 @@
+Room_ID,Room_Name,Room_Type,Capacity
+R1,Classroom 1,Classroom,60
+R2,Classroom 2,Classroom,60
+R3,Classroom 3,Classroom,60
+R4,Classroom 4,Classroom,60
+R5,Classroom 5,Classroom,60
+R6,Classroom 6,Classroom,60
+R7,Classroom 7,Classroom,60
+R8,Classroom 8,Classroom,60
+R9,Lab 1,Lab,70
+R10,Lab 2,Lab,70
+R11,Lab 3,Lab,70

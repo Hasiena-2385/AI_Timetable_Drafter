@@ -1,0 +1,12 @@
+Course_ID,Course_Name,Department,Semester,Course_Type,Weekly_Hours
+C101,Software Engineering,CSE,Sem 2,Theory,4
+C102,Digital Principles & CO,CSE,Sem 2,Theory,4
+C103,C++ Programming,CSE,Sem 2,Theory,3
+C104,Operating Systems,CSE,Sem 2,Theory,3
+C105,Database Management Systems,CSE,Sem 2,Theory,3
+C106,Discrete Mathematics,S&H,Sem 2,Theory,2
+C107,Engineering Graphics,MECH,Sem 2,Theory,2
+C108,Programming Lab,CSE,Sem 2,Lab,3
+C109,DBMS Lab,CSE,Sem 2,Lab,3
+C110,IIT Spoken Tutorial,CSE,Sem 2,Special,1
+C110,Professional Development,Theory,Sem 2,4

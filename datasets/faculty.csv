@@ -1,0 +1,16 @@
+Faculty_ID,Faculty_Name,Department,Max_Hours_Per_Week
+F001,Dr. Aravind Kumar,CSE,16
+F002,Dr. Meena Subramanian,CSE,16
+F003,Prof. Karthik Rajan,CSE,16
+F004,Dr. Priya Natarajan,CSE,16
+F005,Prof. Suresh Babu,CSE,16
+F006,Dr. Divya Shankar,CSE,16
+F007,Prof. Vigneshwaran,CSE,16
+F008,Dr. Latha Srinivasan,CSE,16
+F009,Prof. Mohammed Faizal,CSE,16
+F010,Dr. Anitha Raman,CSE,16
+F011,Prof. Ramesh Balan,ECE,16
+F012,Dr. Deepa Krishnan,EEE,16
+F013,Prof. Arun Prasad,MECH,16
+F011,Dr. Karthik,Training
+F012,Ms. Priya,Soft Skills
